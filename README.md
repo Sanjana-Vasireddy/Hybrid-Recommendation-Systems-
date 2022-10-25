@@ -1,7 +1,7 @@
 # **Recommendation-Systems**
 
 ## **Introduction:**
-This is a competition project has been done in fulfillment to the completion of Foundations and applications of Data Minig(INF553) course at University of Southern California. The work on the project was all done by myself.
+This is a competition project has been done in fulfillment to the completion of Foundations and applications of Data Mining(DSCI554) course at University of Southern California. 
 
 The project objective is to build a hybrid recommendation engine by mixing recommendations from content-based filtering, user-based and item-based collaborative filtering recommendation models.
 
